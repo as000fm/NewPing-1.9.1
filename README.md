@@ -1,5 +1,5 @@
 # NewPing-1.9.1
-This is a copy for [XOD](https://xod.io/) patches of **[Tim Eckel's NewPing Library - v1.9.1 - 07/15/2018]**(https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home)
+This is a copy for [XOD](https://xod.io/) patches of **[Tim Eckel's NewPing Library - v1.9.1 - 07/15/2018](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home)**
 
 How to use in a **XOD patch**:
 
